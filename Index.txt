@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>"Pixel Mart Uganda: Your Trusted Technology Marketplace"</title>
+</head>
+Pixel Mart Uganda is an e-commerce platform founded in 2020, specializing in the sale of quality technology products such as laptops, smartphones, accessories, and software. The company is committed to delivering excellent customer service and a reliable shopping experience to both individuals and businesses.
+<Body bgcolor="Yellow">
+<a href="Index.html">Home</a> About us,Services  Contact us Board members 
+<p>This is my first paragrhpy</p><br>
+<h1>my first heading </h1>
+<h2>my second heading </h2><br>
+<h3>Eest african countries </h3>
+<ul>
+<li>kenyan</li>
+<li>uganda</li>
+<li>Rwanda</li>
+</ul>
+<h3>Memeber states inculde </h3>
+<ol>
+<li>Congo DRC</li>
+<li>South Sudan </li>
+<li>TZ</li>
+</ol>
+</body>
+
+</html>

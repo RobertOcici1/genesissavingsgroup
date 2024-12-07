@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products & Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body> 
+    <header><br>
+ <h1>GENESIS SAVINGS GROUP
+</h1>
+        
+       <nav><H3>
+ <p><a href="index.html">Home</a> <a href="index1.html">About Us </a><a href="index2.html">PRODCUTS & SERVICES</a></a><a href="index2.html">Contact Us</a>
+ <a href="galary.jpg">COLLECTIONS </a> <a href="index.html"></a>     <a href="index4.html">OUR PARTNERS</a>
+<  <a href="index.html"></a><a href="index6.html">CONTACT US</a>
+<a href="index.html"></a><a href="index9.html">NEWS  </a></H3>
+
+
+
+        </nav>
+
+    </header>
+    <main>
+        
+        <p>
+<h1>Products & Services </h1>
+<h2>Shares</h2>
+-A share represents a member’s ownership in the Cooperative, with a nominal value set by the Management Committee (minimum 1 share valued at 100 USD).<br>
+-Founder Members: Must hold 3–36 shares, not exceeding 10% of total shares and savings.<br>
+-Ordinary Members: Must hold at least 1 share, with no maximum limit but subject to the same 10% cap.<br>
+-Non-members cannot hold shares.<br>
+-Shares earn 11% annual dividends and form part of the non-withdrawable “core capital” but are transferable upon membership termination.
+-Shares are not used for loan collateral, but holding the minimum is required for borrowing eligibility.
+<h2>Regular Savings</h2>
+Members must make regular savings after completing their share contributions.<br>
+Savings earn 10% annual interest.<br>
+Withdrawals require a 30-day notice.<br>
+<h2>Benevolent Fund</h2>
+Members contribute UGX 10,000 monthly to a fund covering the member, spouse, and four children under 18.<br>
+Benefits: UGX 300,000 upon death of a member/spouse and UGX 150,000 for a child.<br><br>
+<h2>Loan Types </h2>
+(a)Emergency Loan<br>
+(b)Salary Loan<br>
+(c)Education Loan<br>
+(d)Business Loan<br>
+
+</p>
+    </main>
+    <footer>
+        <p>"© 2024 Genesis Savings Group. All Rights Reserved."
+</p>
+    </footer>
+</body>
+</html>
+

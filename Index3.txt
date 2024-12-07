@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body> 
+    <header><br>
+ <h1>PIXEL MART UGANDA</h1>
+        
+        <nav><H3>
+            <a href="index.php">Home</a>
+             <a href="Aboutus.php">About Us</a>
+            <a href="shop.php">Shop</a>
+            <a href="Products & Services.php">Produscts & Services</a>
+            <a href="cart.php">Cart</a>
+            <a href="Blogs.php">Blogs</a>
+            <a href="login.php">Login</a>
+            <a href="Contactus.php">contact us</a></H3>
+
+        </nav>
+    </header>
+    <main>
+        
+        <p>
+<h3>1. Financial Literacy Workshops</h3>
+•	Objective: Equip members with essential skills in budgeting, saving, and investing.
+•	Activities: Host monthly training sessions on financial planning, debt management, and income diversification.
+•	Impact: Improve members' ability to manage their resources effectively and increase their financial independence.
+<h3>2. Small Business Support Program</h3>
+•	Objective: Provide funding and mentorship for members to start or expand small businesses.
+•	Activities:
+o	Offer micro-loans to members.
+o	Organize business development seminars.
+o	Create a mentorship network connecting experienced entrepreneurs with new business owners.
+•	Impact: Enhance members' livelihoods and boost local economic development.
+<h3>3. Community Investment Projects</h3>
+•	Objective: Invest in community development initiatives such as clean water, schools, or healthcare facilities.
+•	Activities: Pool resources from members to fund projects that benefit the entire community.
+•	Impact: Strengthen community ties and improve living standards.
+
+<h3>4. Digital Savings and Loan Platform</h3>
+•	Objective: Modernize the group’s savings and loan processes using technology.
+•	Activities:
+o	Develop or adopt a mobile app for tracking contributions and loans.
+o	Provide training on using digital platforms for financial transactions.
+•	Impact: Increase efficiency, transparency, and convenience for members.
+
+<h3>5. Benevolent and Emergency Fund</h3>
+•	Objective: Strengthen the group’s support system for emergencies, such as health crises or natural disasters.
+•	Activities:
+o	Expand the existing benevolent fund to include other emergencies.
+o	Educate members on insurance options and risk management.
+•	Impact: Provide a safety net for members during unforeseen events.
+
+<h3>6. Youth and Women Empowerment Programs</h3>
+•	Objective: Encourage the participation of youth and women in economic activities.
+•	Activities:
+o	Offer specialized training in vocational skills and entrepreneurship.
+o	Provide scholarships or grants for educational advancement.
+•	Impact: Increase gender equity and empower younger members.
+
+<h3>7. Green Savings Initiative</h3>
+•	Objective: Promote environmental sustainability within the community.
+•	Activities:
+o	Launch tree planting or waste management programs funded through group contributions.
+o	Provide loans for eco-friendly businesses, such as solar energy or recycling ventures.
+•	Impact: Foster environmental responsibility while creating green jobs.
+
+<h3>8. Member Welfare Monitoring System</h3>
+•	Objective: Ensure the well-being of all members beyond financial aspects.
+•	Activities:
+o	Develop a welfare tracking system.
+o	Conduct periodic visits to understand members’ challenges and provide support where needed.
+•	Impact: Create a holistic support environment for members.
+
+</p>
+    </main>
+    <footer>
+        <p>"© 2024 Pixel Mart Uganda. All Rights Reserved."
+</p>
+    </footer>
+</body>
+</html>
+

@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body> 
+    <header>
+        GENSIS SAVINSG GROUP
+        <nav><H3>
+<p><a href="index.html">Home</a> <a href="index1.html">About Us </a><a href="index2.html">Products & Services</a>
+ <a href="index3.html">Projects </a><a href="index4.html">Our Partners</a>
+</a><a href="index5.html">News  </a>
+</a><a href="index6.html">Contact Us</a></H3>
+
+
+        </nav>
+    </header>
+    <main>
+
+
+<h3>Genesis Savings Group News Update</h3>
+Strengthening Financial Empowerment and Community Growth
+We are excited to share the latest updates and milestones from Genesis Savings Group, reflecting our commitment to empowering our members and fostering community development.
+
+<h3>1. New Membership Growth</h3>
+Genesis Savings Group has welcomed over 100 new members this quarter, expanding our reach and impact. This growth highlights the trust and confidence the community has in our financial services and collaborative initiatives.
+
+<h3>2. Launch of Digital Savings Platform</h3>
+To enhance efficiency and accessibility, Genesis Savings Group is proud to announce the development of a Digital Savings and Loan Management Platform. Members can now track their contributions, apply for loans, and receive real-time updates from the convenience of their mobile devices.
+
+<h3>3. Successful Benevolent Fund Payouts</h3>
+Our Benevolent Fund continues to support members during critical times. This quarter, the fund has disbursed financial aid to 5 members and their families, underscoring our dedication to providing a safety net for our community.
+
+<h3>4. Community Investment Project</h3>
+We are excited to announce the commencement of a Clean Water Initiative, funded by member contributions and external partnerships. This project aims to provide access to safe and clean water for over 200 households in our local community.
+
+<h3>5. Financial Literacy Workshops</h3>
+Genesis Savings Group conducted 3 financial literacy workshops, equipping members with skills in budgeting, saving, and entrepreneurship. The workshops were attended by over 50 members and have already received positive feedback for their practical impact.
+
+<h3>6. Call for Partnerships</h3>
+Genesis Savings Group is actively seeking collaborations with organizations that share our vision of financial empowerment and community development. Together, we can create lasting change and expand opportunities for our members.
+
+</main>
+    <footer>
+        <p>"© 2024 Genesis Savings Group. All Rights Reserved."
+</p>
+    </footer>
+</body>
+</html>
